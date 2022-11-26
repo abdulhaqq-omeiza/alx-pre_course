@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$XDG_CONFIG_HOME/git/ignore"
+echo "~"
